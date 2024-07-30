@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+      "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+      "AzureSignalRConnectionString": "",
+      "AzureWebJobsStorage": "",
+      "AzureWebJobsSecretStorageType": "Files"
+  },
+  "Host": {
+      "LocalHttpPort": 7071,
+      "CORS": "https://racereviewmsa.azurewebsites.net",
+      "CORSCredentials": true
+  }
+}
